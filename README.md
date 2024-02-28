@@ -1,7 +1,7 @@
 ![logo](https://github.com/Codekazuki/Codekazuki/blob/main/WhatsApp%20Image%202024-02-27%20at%2020.43.43.jpeg)
 <h1 align="center">Hi 👋, I'm Ayodele</h1>
 <h3 align="center">A software engineer that loves to teach</h3>
-<img align=”right” alt=”coding-gif” width=”400” src=”https://github.com/Codekazuki/Codekazuki/blob/main/WhatsApp%20Image%202024-02-27%20at%2020.43.43.jpeg” >
+<img align=”right” alt=”coding-gif” width=”400” src=”https://github.com/Codekazuki/Codekazuki/blob/main/WhatsApp%20Image%202024-02-27%20at%2020.43.43.jpeg” />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codekazuki&label=Profile%20views&color=0e75b6&style=flat" alt="codekazuki" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codekazuki" alt="codekazuki" /></a> </p>
