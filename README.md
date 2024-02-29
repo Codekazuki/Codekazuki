@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/coachkazuki" target="blank"><img src="https://img.shields.io/twitter/follow/coachkazuki?logo=twitter&style=for-the-badge" alt="coachkazuki" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 I’m currently working on **node.js,tailwind**
 
 - 🌱 I’m currently learning **Node js**
 
