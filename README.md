@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/coachkazuki" target="blank"><img src="https://img.shields.io/twitter/follow/coachkazuki?logo=twitter&style=for-the-badge" alt="coachkazuki" /></a> </p>
 
-- 🔭 I’m currently working on **node.js,tailwind**
+- 🔭 I’m currently working on **React JS,Tailwind and Next JS**
 
 - 🌱 I’m currently learning **Node js**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **agbowurotoyin8@gmail.com**
 
-- ⚡ Fun fact **I love travelling**
+- ⚡ Fun fact **I love travelling and playing board games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
